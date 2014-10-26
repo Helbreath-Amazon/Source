@@ -1,0 +1,5 @@
+
+#define DEF_UPPERVERSION		"3"
+#define DEF_LOWERVERSION 		"82"
+
+#define DEF_BUILDDATE			1126
